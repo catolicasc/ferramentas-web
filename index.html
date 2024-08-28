@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de League of Legends</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h1 {
+            color: #0055ff;
+        }
+        .question {
+            margin-bottom: 15px;
+        }
+        .question p {
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .answer-key {
+            margin-top: 20px;
+            background-color: #e0e0e0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .answer-key p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Quiz de League of Legends</h1>
+
+    <form action="#answer-key" method="get">
+        <div class="question">
+            <p>1. Qual é o nome verdadeiro do campeão Yasuo?</p>
+            <input type="radio" name="q1"> Shinji<br>
+            <input type="radio" name="q1"> Akira<br>
+            <input type="radio" name="q1"> Yone<br>
+            <input type="radio" name="q1"> Kenji<br>
+        </div>
+
+        <div class="question">
+            <p>2. Qual é a classe do campeão Garen?</p>
+            <input type="radio" name="q2"> Atirador<br>
+            <input type="radio" name="q2"> Mago<br>
+            <input type="radio" name="q2"> Lutador<br>
+            <input type="radio" name="q2"> Suporte<br>
+        </div>
+
+        <div class="question">
+            <p>3. Qual é o nome do dragão que concede bônus de cura ao time?</p>
+            <input type="radio" name="q3"> Dragão Oceânico<br>
+            <input type="radio" name="q3"> Dragão Infernal<br>
+            <input type="radio" name="q3"> Dragão das Nuvens<br>
+            <input type="radio" name="q3"> Dragão das Montanhas<br>
+        </div>
+
+        <div class="question">
+            <p>4. Qual é o nome do item que concede escudo baseado em velocidade de movimento?</p>
+            <input type="radio" name="q4"> Gume do Infinito<br>
+            <input type="radio" name="q4"> Limite da Razão<br>
+            <input type="radio" name="q4"> Anjo Guardião<br>
+            <input type="radio" name="q4"> Força da Trindade<br>
+        </div>
+
+        <input type="submit" value="Verificar Respostas">
+    </form>
+
+    <div id="answer-key" class="answer-key">
+        <h2>Respostas Corretas:</h2>
+        <p>1. Yone</p>
+        <p>2. Lutador</p>
+        <p>3. Dragão Oceânico</p>
+        <p>4. Anjo Guardião</p>
+    </div>
+
+</body>
+</html>
