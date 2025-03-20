@@ -6,7 +6,7 @@ Os grupos deverão criar uma **página web estática** utilizando **HTML + CSS**
 ---
 
 ## 🔹 Temas Disponíveis
-Cada grupo deve escolher um dos temas abaixo para desenvolver sua página:
+Cada grupo deve escolher um dos temas abaixo para desenvolver sua página, os temas são livres, esses são apenas exemplos de temas:
 
 1. **🐶 Site de Pet Shop**
    - Apresentação de serviços como banho, tosa e produtos para animais.
@@ -43,13 +43,13 @@ Cada grupo deve escolher um dos temas abaixo para desenvolver sua página:
 ## 🎯 Requisitos do Trabalho
 - Utilizar **HTML + CSS** para criar a página.
 - Aplicar as seguintes técnicas:
-   - **Cores e Fundos** (`background-color`, `background-image`, `rgba`, `gradients`)
-   - **Textos** (`font-family`, `font-size`, `text-transform`, `letter-spacing`)
-   - **Layouts e Posicionamento** (`flexbox`, `grid`, `position`)
-   - **Imagens** (`object-fit`, `border-radius`, `box-shadow`)
-   - **Estilos para Links** (`hover`, `visited`, `active`)
-   - **Animações e Transições** (`@keyframes`, `transition`, `transform`)
-   - **Consistência Visual** (padrões de cores, fontes e espaçamentos)
+   - **Cores e Fundos** Dicas (`background-color`, `background-image`, `rgba`, `gradients`)
+   - **Textos** Dicas (`font-family`, `font-size`, `text-transform`, `letter-spacing`)
+   - **Layouts e Posicionamento** Dicas (`flexbox`, `grid`, `position`)
+   - **Imagens** Dicas (`object-fit`, `border-radius`, `box-shadow`)
+   - **Estilos para Links** Dicas (`hover`, `visited`, `active`)
+   - **Animações e Transições** Dicas (`@keyframes`, `transition`, `transform`)
+   - **Consistência Visual** Dicas (padrões de cores, fontes e espaçamentos)
 - O código deve ser organizado, comentado e bem estruturado.
 - A apresentação do trabalho será feita em sala.
 
@@ -57,7 +57,7 @@ Cada grupo deve escolher um dos temas abaixo para desenvolver sua página:
 
 ## 📅 Entrega e Apresentação
 
-- **Prazo de Entrega:** 02/ABRIL/2025 📆 
+- **Prazo de Entrega:** 26/MAR/2025 📆 
 - **Apresentação:** Cada grupo terá **5 minutos** para explicar seu projeto. 🗣 
 - **Entrega:** Link para o código ou arquivo HTML + CSS. 📂 
 - **Auditoria:** Caso necessário terá auditoria de código. 🧑🏽‍💻 
